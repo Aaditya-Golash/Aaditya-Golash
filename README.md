@@ -92,7 +92,7 @@ PyTorch · Deep Learning · Computer Vision
 # 📫 Connect
 
 LinkedIn  
-https://linkedin.com/in/aaditya-golash-1021618  
+https://linkedin.com/in/aaditya-golash 
 
 Email  
 aadigolash10@outlook.com
