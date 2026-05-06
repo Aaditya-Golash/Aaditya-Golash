@@ -1,7 +1,6 @@
 # Hi, I'm Aaditya 👋
 
-CS + Management student at **UBC** building automation systems that reduce manual work by 70%+
-
+CS + Management student at **UBC** building automation systems 
 I focus on the intersection of **engineering, data, and product** — shipping tools that turn spreadsheets into systems.
 
 <div align="center">
@@ -9,12 +8,6 @@ I focus on the intersection of **engineering, data, and product** — shipping t
 ![Profile Views](https://komarev.com/ghpvc/?username=Aaditya-Golash&color=blueviolet&style=flat)
 
 </div>
-
----
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aaditya-Golash&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -106,15 +99,7 @@ PyTorch · Deep Learning · Computer Vision
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Golash&layout=pie&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aaditya-Golash&theme=transparent&hide_border=true)
-
 </div>
-
----
-
-## 📈 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaditya-Golash&theme=transparent&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
