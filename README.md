@@ -89,6 +89,11 @@ PyTorch · Deep Learning · Computer Vision
 
 ---
 
+### 📊 System Health
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya-Golash&show_icons=true&theme=transparent&hide_border=true) 
+
+---
+
 # 📫 Connect
 
 LinkedIn  
