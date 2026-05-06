@@ -91,18 +91,6 @@ PyTorch · Deep Learning · Computer Vision
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaditya-Golash&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Golash&layout=pie&theme=transparent&hide_border=true)
-
-</div>
-
----
-
 ## 👀 Currently
 
 Open to **full-time software engineering roles** and **startup collaborations** focusing on:
