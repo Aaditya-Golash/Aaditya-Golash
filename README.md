@@ -47,7 +47,7 @@ Implemented a machine learning pipeline that filters for the most informative fr
 **Impact**
 - Implemented **Top-K frame filtering**
 - Reduced inference compute by **90%**
-- Improved classification accuracy **5–7%**
+- Improved classification accuracy **87.12% → 88.52%**
 
 [View Repo →](https://github.com/Group-9-Cosc-419/Cosc_419-JerseyNumber-Recognition)
 
