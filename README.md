@@ -109,12 +109,6 @@ Open to **full-time software engineering roles** and **startup collaborations** 
 
 ---
 
-<div align="center">
-
-**Built with ❤️ | Last Updated: 2026**
-
-</div>
-
 <!-- TTT:START -->
 
 ### 🕹️ Live Community Tic-Tac-Toe
@@ -128,3 +122,10 @@ Your move! Click an empty cell to open a pre-filled GitHub Issue.
 
 _visitors play as **X**. The profile bot answers as **O** using minimax._
 <!-- TTT:END -->
+---
+
+<div align="center">
+
+**Built with ❤️ | Last Updated: 2026**
+
+</div>
