@@ -112,13 +112,13 @@ Open to **full-time software engineering roles** and **startup collaborations** 
 <!-- TTT:START -->
 
 ### 🕹️ Live Community Tic-Tac-Toe
-Your move! Click an empty cell to open a pre-filled GitHub Issue.
+Game result: O wins! Submit any new move after reset to start again.
 
 | | | |
 | :---: | :---: | :---: |
 |  **O**  |  **X**  |  **X**  |
-|  **O**  |  **O**  | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A5&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) |
-|  **X**  | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A7&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A8&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) |
+|  **O**  |  **O**  |  **X**  |
+|  **X**  |  —  |  **O**  |
 
 _Recruiters and visitors play as **X**. The profile bot answers as **O** using minimax._
 <!-- TTT:END -->

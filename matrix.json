@@ -5,11 +5,11 @@
     "X",
     "O",
     "O",
-    " ",
+    "X",
     "X",
     " ",
-    " "
+    "O"
   ],
   "turn": "X",
-  "status": "ONGOING"
+  "status": "GAME_OVER_O"
 }
