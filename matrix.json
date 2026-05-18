@@ -1,15 +1,15 @@
 {
   "board": [
+    " ",
+    " ",
     "O",
-    "X",
-    "X",
-    "O",
-    "O",
-    "X",
+    " ",
+    " ",
     "X",
     " ",
-    "O"
+    " ",
+    " "
   ],
   "turn": "X",
-  "status": "GAME_OVER_O"
+  "status": "ONGOING"
 }
