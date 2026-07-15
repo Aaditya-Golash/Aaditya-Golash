@@ -106,7 +106,7 @@ Built a browser extension that analyzes legal text and generates simplified summ
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://github.com/Aaditya-Golash?tab=repositories&language=javascript)
 
 **Systems & Infrastructure**  
-Linux · Ubuntu · Shell scripting · Docker · Git · GitHub Actions · CI/CD · Pytest · REST APIs
+Linux · Ubuntu · Docker · Git · GitHub Actions · CI/CD · Pytest · REST APIs
 
 **Frameworks & Data**  
 Flask · Node.js · MySQL · MongoDB · Tableau · Advanced Excel · GA4
