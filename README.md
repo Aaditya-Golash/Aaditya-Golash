@@ -156,7 +156,7 @@ Your move! Click an empty cell to open a pre-filled GitHub Issue.
 | | | |
 | :---: | :---: | :---: |
 | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A0&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A1&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) |  **O**  |
-| [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A3&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A4&body=Submit+this+issue+to+place+your+X+on+the selected+Tic-Tac-Toe+cell.) |  **X**  |
+| [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A3&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A4&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) |  **X**  |
 | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A6&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A7&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) | [Play](https://github.com/Aaditya-Golash/Aaditya-Golash/issues/new?title=play%3A8&body=Submit+this+issue+to+place+your+X+on+the+selected+Tic-Tac-Toe+cell.) |
 
 _Recruiters and visitors play as **X**. The profile bot answers as **O** using minimax._
