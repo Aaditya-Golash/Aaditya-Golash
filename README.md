@@ -6,7 +6,6 @@ I work across full-stack systems, AI-enabled tooling, workflow automation, and a
 
 I am drawn to fast-moving, entrepreneurial engineering environments where I can learn quickly, take ownership, and build things people actually use.
 
-Also, I really like cars. My favourite is the **Mercedes-Benz 300 SL Gullwing**.
 
 **Software engineering · Full-stack systems · System architecture · AI-enabled tooling · Automation**
 
